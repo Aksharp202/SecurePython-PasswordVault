@@ -2,6 +2,9 @@
 
 The SecurePython Password Vault is a robust and user-friendly Python application designed to safeguard your valuable online credentials with utmost security and ease of use. With this password manager, you can confidently store and manage your website logins while ensuring the highest level of protection for your sensitive information.
 
+
+
+
 🔐 Key Features 🔐
 
 Master Password Creation: Begin by setting up a strong master password that acts as your gateway to the vault. This password ensures that only you have access to your stored credentials.
@@ -17,6 +20,10 @@ Automatic Login Retrieval: Each time you reopen the app, you can effortlessly ac
 Delete Saved Passwords: Manage your saved passwords efficiently by easily deleting any credentials you no longer need.
 
 Robust Security Measures: The use of SQLite for data storage and encryption enhances the app's security, providing peace of mind to users concerned about potential hacking attempts.
+
+
+
+
 
 🛡️ Your Security Matters 🛡️
 We take your privacy and security very seriously. The SecurePython Password Vault employs state-of-the-art encryption techniques to ensure that your data remains protected at all times. Rest assured that your master password and stored passwords are stored safely and cannot be accessed by anyone without the correct authorization.
